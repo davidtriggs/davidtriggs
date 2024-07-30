@@ -1,0 +1,24 @@
+[
+  {
+    "listing": "/measureware/index.html",
+    "items": [
+      "/measureware/posts/measureware/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/eSpeakeasy/posts/AI_analyst_programmer/index.html",
+      "/posts/david-triggs/index.html",
+      "/measureware/posts/measureware/index.html",
+      "/eSpeakeasy/posts/eSpeakeasy/index.html"
+    ]
+  },
+  {
+    "listing": "/eSpeakeasy/index.html",
+    "items": [
+      "/eSpeakeasy/posts/AI_analyst_programmer/index.html",
+      "/eSpeakeasy/posts/eSpeakeasy/index.html"
+    ]
+  }
+]

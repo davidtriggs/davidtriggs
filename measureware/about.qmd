@@ -1,0 +1,28 @@
+---
+title: "measureware"
+author: "David Triggs"
+date: "2024-05-03"
+categories: [news]
+---
+
+![](measureware.png)
+
+Measureware works at the intersection of the key competencies necessary to create business value with Data Science and AI based solutions:
+
+-   **Data**: Most organizations recognise they are not gaining the value they should from the data they already have. However, rather than starting from the data available, creating value tends to be easier in a broader context.
+
+-   **Leadership**: Senior management involvement is important, not only to provide sponsorship, but also to provide a perspective on the business or mission goals and objectives that help shape the questions that Data Science can ask.
+
+-   **Data Science**: provides a methodology, similar to that of scientific research, but inspired by start-up entrepreneurial thinking, as well as Machine Learning (ML) and Artificial Intelligence (AI) algorithms (such as Deep Neural Networks (DNN)) that can deliver insight.
+
+-   **Data Engineering**: When Data Scientists are expected to work directly with current databases, data warehouses, and other raw data sources, they frequently end up spending 80% of their time getting the data into a format that is suitable for their algorithms. Data Engineering can handle this more efficiently, ensuring data scientists focus where they can create the most value, but rarely is just extracting and cleaning data sufficient.
+
+-   **Data Platform**: Most of the value associated with data is realised by technologies and techniques, that while they can scale to almost any data volume and streaming velocity, can also be valuable in Data Engineering at relatively small scale.
+
+-   **Deep Learning**: Many of the most exciting advances of the last 5 to 10 years have come not from conventional ML, but rather DNN based architectures; especially related to image, speech, and language processing. These require different skill sets that traditional ML, and even different platforms (as they mostly need to run on GPUs).
+
+-   **Solutions**: While in traditional Data Warehouses (DW) and Business Intelligence (BI) the output is mostly a dashboard, or other report requiring management action, Data Science on Big Data Platforms more commonly creates value by being engineered into broader technology solutions; such as the way Netflix or Amazon recommend things based on predictions of what may be interesting to an individual.
+
+Rather than the often challenging search for a single individual with expertise across all these areas, in addition to the industry segment of the organisation and the domain of the questions being asked, success more frequently comes from Data Science teams. The key is aligning all these elements, so you don’t find your data scientist, who is expert in R, struggling with Scala to build a streaming production system.
+
+Measureware has helped organisations in structuring Data Science programs that bring all these elements together to address challenges ranging from predictive maintenance of heavy industrial equipment to improving customer interaction in financial services.

@@ -1,0 +1,42 @@
+---
+title: "Is an AI going to be your next data analyst or programmer?"
+author: "David Triggs"
+date: "2024-05-07"
+categories: [news]
+---
+
+![](OpenAI-CI-2307.jpg)
+
+It is now only a little over 6 months since people started to play with OpenAI’s then newly released [ChatGPT](https://openai.com/blog/chatgpt), which brilliantly demonstrated the power of recent advances in Large Language Models (LLMs) – and a few of their problems, in a way that almost compelled people to think of how this technology would reshape society in the future.
+
+However, perhaps the most compelling illustration of how AI could change the future of work came this week from OpenAI in the form a ChatGPT like data analyst that, given only English language requests, can write Python programs to analyse any data that you provide to it.
+
+While OpenAI’s approach is not the only way to automate analytics work, it again strikingly illustrates the way that work in the future may involve effectively supervising an AI assistant, in much the same way as senior workers have traditionally supervised more junior staff.
+
+Here I want to briefly look at what has been achieved, and the implications it is reasonable to draw.
+
+While recent advances in AI have led to much hype about superhuman performance, and existential threats, a lot of this comes from talking confusingly about “an AI” rather than being more specific that this is just a computer program; albeit one that can learn things never explicitly programmed, in the case of LLMs from training on millions of natural and computer programming examples.
+
+While advances in LLM capability have surprised even the founders of the field, like Geoffrey Hinton, and their performance can in some ways exceed what people can do, they are actually weak in other areas, such as maths calculations. For example, a request to ChatGPT to count the words in a paragraph can return a result that plausible, but actually slightly off.
+
+A common approach to address these weaknesses, used especially by OpenAI, is to provide the LLM with tools, and to train it to use them to solve problems where this approach will be better. This approach has been used to give LLMs knowledge of current events by providing them with effectively a web browser, and letting them look up current information. This is basically how [Bing Chat](https://www.bing.com/new) works.
+
+When we hear of Large Language Models (LLMs) we tend to think of them as being trained in our own language, but in reality most of the advanced ones are trained in multiple languages; and it is common to also train them on computer programming languages.
+
+So, if a model can write not just English, but also Python programs, the math problem can be solved by teaching the LLM to write a short program.
+
+This is essentially what the OpenAI Code Interpreter does, allowing the most advanced AI currently available, OpenAI’s GPT-4, to upload and download information, and to write and execute programs for you in a persistent workspace.
+
+As an example of the potential, Machine Learning Street Talk, uploading very noisy git data for an open source project and quickly got it to produce the following, which could otherwise have easily required an analyst with programming experience.
+
+![](OpenAI-CI-example-2307.jpg)
+
+While this is only a quick illustration, it does suggest there is already significant potential for disruption, especially for education and entry level roles. As One of the original OpenAI founders and a former director of AI at Tesla, [Andrej Karpathy](https://karpathy.ai/), [describes it](https://twitter.com/karpathy/status/1677512911953231874):  “It’s your personal data analyst: can read uploaded files, execute code, generate diagrams, statistical analysis, much more. I expect it will take the community some time to fully chart its potential.”
+
+I think Andrej is right – it will take us time to think through the implications of even this next step toward the future of work and of our society. One immediate observation is that this more structured approach also helps with one of the main issues with LLM’s like ChatGPT, there tendency to hallucinate things that are plausible but completely wrong.
+
+While in the past entry level analytics roles might have required data wrangling and programming proficiency, as LLM based capabilities become embedded in analytics environments, and as the AI corrects its own programming errors and gives you the output; even entry level roles may involve more directing and supervising programs utilising AI models like these.
+
+And by supervising, especially in the short term, this implies being prepared for the AI to make mistakes, and still be keen to convince you the work is all done; just like many a junior staffer. Likely until there are significant advances, there will be the need to look at the Python code generated and challenge things that are not correct; allowing the AI to revise its work.
+
+While Code Interpreter Beta is still rolling out to ChatGPT Plus subscribers for those interested in reading further, Professor Ethan Mollick, from Wharton business school, has had access for a while and written a [useful introduction](https://www.oneusefulthing.org/p/what-ai-can-do-with-a-toolbox-getting); that also showcases many key capabilities.

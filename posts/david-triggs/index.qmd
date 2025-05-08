@@ -1,0 +1,25 @@
+---
+title: "David Triggs"
+author: "David Triggs"
+date: "2024-05-04"
+categories: [news]
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/davidtriggs
+    - icon: threads-fill
+      text: Threads
+      href: https://threads.net/davidtriggs
+    - icon: twitter-x
+      text: Twitter/X
+      href: https://x.com/DavidTriggs
+    - icon: github
+      text: Github
+      href: https://github.com/davidtriggs
+---
+
+![](davidtriggs.jpg){fig-align="center"}
+
+Consulting Data Scientist and CTO at Measureware. Previously Principal Consultant – Analytics with Hitachi, CTO of a Big Data Analytics Research and Consulting startup, and Senior IT Strategy Consultant and a Principal Solution Architect at Hewlett-Packard, working with enterprise customers across the Asia Pacific region.

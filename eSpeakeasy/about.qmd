@@ -1,0 +1,11 @@
+---
+title: "eSpeakeasy"
+author: "David Triggs"
+date: "2024-05-02"
+categories: [news]
+---
+
+![](eSpeakeasy3.jpg)
+
+Current Generative AI systems, especially Transformer based Large Language Models (LLM) surprised even the founders of Deep Neural Network based AI research. Trained on vast amounts of human, and
+computer, language they have learned not only how to understand and communicate using these languages, but also some human reasoning, and even aspects of human nature; making them very different from the programmed computer systems we are used to. eSpeakeasy is a collection of thoughts on how we can effectively collaborate with AI agents to be more productive and effective in many aspects of our work and other aspects of our lives.

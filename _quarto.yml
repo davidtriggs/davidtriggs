@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "David Triggs"
+  favicon: measureware-m.png 
+  navbar:
+    right:
+      - about.qmd
+      - measureware/index.qmd
+      - eSpeakeasy/index.qmd
+      - icon: linkedin
+        href: https://linkedin.com/in/davidtriggs
+      - icon: threads-fill
+        href: https://threads.net/davidtriggs
+      - icon: twitter-x
+        href: https://x.com/DavidTriggs
+      - icon: github
+        href: https://github.com/davidtriggs
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+

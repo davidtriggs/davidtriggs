@@ -4,6 +4,7 @@ project:
 
 website:
   title: "David Triggs"
+  site-url: "https://davidtriggs.github.io/davidtriggs/"
   favicon: measureware-m.png 
   navbar:
     right:
